@@ -1,2 +1,2 @@
 # CS231n: Convolutional Neural Networks for Visual Recognition - Spring 2024
-This repository contains notes and assignments about the course offered by standford CS231n taught by Fei Fei Li. 
+I've been taking Stanford course CS231n: Convolutional Neural Networks for Visual Recognition in my summer vacation. Here I gathered my notes and solutions to assignments. The course lectures were recorded in Spring 2017, but the assignments are from Spring 2024.
