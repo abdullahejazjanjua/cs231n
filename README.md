@@ -9,7 +9,7 @@ I have organized the notes by assignment, including related helpers that were in
 ## Assignment Solutions
 
 ### Assignment 1
-You can get starter code [here](https://cs231n.github.io/assignments2024/assignment1/)
+You can get starter code from [here](https://cs231n.github.io/assignments2024/assignment1/)
 - [Q1: k-Nearest Neighbor classifier.](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment1/knn.ipynb) (Done)
 - [Q2: Training a Support Vector Machine.](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment1/svm.ipynb) (Done)
 - [Q3: Implement a Softmax classifier](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment1/softmax.ipynb). (Done)
