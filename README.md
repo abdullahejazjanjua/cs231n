@@ -9,10 +9,10 @@ I have organized the notes by assignment, including related helpers that were in
 ## Assignment Solutions
 
 ### Assignment 1
-    - [Q1: k-Nearest Neighbor classifier.](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment1/knn.ipynb) (Done)
-    - [Q2: Training a Support Vector Machine.](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment1/svm.ipynb) (Done)
-    - [Q3: Implement a Softmax classifier](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment1/softmax.ipynb). (Done)
-    - [Q4: Two-Layer Neural Network.](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment1/two_layer_net.ipynb) (Done)
-    - [Q5: Higher Level Representations: Image Features.](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment1/features.ipynb) (Done)
+- [Q1: k-Nearest Neighbor classifier.](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment1/knn.ipynb) (Done)
+- [Q2: Training a Support Vector Machine.](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment1/svm.ipynb) (Done)
+- [Q3: Implement a Softmax classifier](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment1/softmax.ipynb). (Done)
+- [Q4: Two-Layer Neural Network.](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment1/two_layer_net.ipynb) (Done)
+- [Q5: Higher Level Representations: Image Features.](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment1/features.ipynb) (Done)
     
     
