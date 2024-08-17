@@ -18,6 +18,8 @@ You can get starter code [here](https://cs231n.github.io/assignments2024/assignm
     
 ## Helpful Resources
 
-- [Backprop](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html)
+- [Backpropogation for Batchnormalization](https://kratzert.github.io/2016/02/12/understanding-the-gradient-flow-through-the-batch-normalization-layer.html)
+      - Helped solidify my understanding of backpropogation
 - [StatQuest](https://www.youtube.com/@statquest)
+      - Assisted in understanding concepts that were not fully clear from the course lectures.
 
