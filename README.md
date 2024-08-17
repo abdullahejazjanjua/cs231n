@@ -1,6 +1,6 @@
 # Introduction
 
-This repository contains my notes and solutions for the Stanford course [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.stanford.edu/), Spring 2024, but the assignments are from [Spring 2024](https://cs231n.stanford.edu/assignments.html). . The notes are organized by assignment and include helpful resources and solutions to the assignments.
+This repository contains my notes and solutions for the Stanford course [CS231n: Convolutional Neural Networks for Visual Recognition, Spring 2024](https://cs231n.stanford.edu/), but the assignments are from [Spring 2024](https://cs231n.stanford.edu/assignments.html). . The notes are organized by assignment and include helpful resources and solutions to the assignments.
 
 ## Notes
 I have organized the notes by assignment, including related helpers that were instrumental in solving the assignments. The notes also feature handwritten derivations and hand-drawn diagrams of backpropagation.
