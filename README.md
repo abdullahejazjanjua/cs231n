@@ -4,4 +4,4 @@ I've been taking Stanford course [CS231n: Convolutional Neural Networks for Visu
 ## Notes
 I have organized the notes by assignment, including related helpers that were instrumental in solving the assignments. The notes also feature handwritten derivations and hand-drawn diagrams of backpropagation.
 
-1.[Assignment 1](https://github.com/abdullahejazjanjua/cs231n/tree/main/assignment1/assignment1_lecture_wise_notes)
+- [Assignment 1](https://github.com/abdullahejazjanjua/cs231n/tree/main/assignment1/assignment1_lecture_wise_notes)
