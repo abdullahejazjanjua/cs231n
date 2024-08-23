@@ -23,5 +23,7 @@ You can get starter code from [here](https://cs231n.github.io/assignments2024/as
   - Helped solidify my understanding of backpropagation
 - [StatQuest](https://www.youtube.com/@statquest)
   - Assisted in understanding concepts that were not fully clear from the course lectures
+- [ResNet](https://www.youtube.com/watch?v=Q1JCrG1bJ-A)
+  - Helped solidfy my understanding of Residual Blocks and how they help in training deeper networks
 
 
