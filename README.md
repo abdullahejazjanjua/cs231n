@@ -21,11 +21,11 @@ You can get starter code from [here](https://cs231n.github.io/assignments2024/as
 ### Assignment 2
 You can get starter code from [here](https://cs231n.github.io/assignments2024/assignment2/)
 
-- Q1: [Multi-Layer Fully Connected Neural Networks](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment2/FullyConnectedNets.ipynb).
-- Q2: [Batch Normalization](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment2/BatchNormalization.ipynb). 
-- Q3: [Dropout](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment2/Dropout.ipynb).
-- Q4: [Convolutional Neural Networks.](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment2/ConvolutionalNetworks.ipynb)
-- Q5: [PyTorch](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment2/PyTorch.ipynb).
+- [Q1: Multi-Layer Fully Connected Neural Networks](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment2/FullyConnectedNets.ipynb).
+- [Q2: Batch Normalization](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment2/BatchNormalization.ipynb). 
+- [Q3: Dropout](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment2/Dropout.ipynb).
+- [Q4: Convolutional Neural Networks.](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment2/ConvolutionalNetworks.ipynb)
+- [Q5: PyTorch](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment2/PyTorch.ipynb).
 
 
     
