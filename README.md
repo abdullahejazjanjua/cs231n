@@ -27,7 +27,14 @@ You can get starter code from [here](https://cs231n.github.io/assignments2024/as
 - [Q4: Convolutional Neural Networks.](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment2/ConvolutionalNetworks.ipynb)
 - [Q5: PyTorch.](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment2/PyTorch.ipynb)
 
+### Assignment 3
 
+- [Q1: Image Captioning with Vanilla RNNs.]()
+- Q2: Image Captioning with Transformers.
+- [Q3: Generative Adversarial Networks.]()
+- Q4: Self-Supervised Learning for Image Classification.
+- [Extra Credit: Image Captioning with LSTMs.]()
+- 2017 Assignment [Style Transfer]()
     
 ## Helpful Resources
 
