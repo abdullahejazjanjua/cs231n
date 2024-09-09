@@ -38,7 +38,7 @@ You can get starter code from [here](https://cs231n.github.io/assignments2024/as
 - [Q3: Generative Adversarial Networks.]()
 - Q4: Self-Supervised Learning for Image Classification.
 - [Extra Credit: Image Captioning with LSTMs.]()
-- 2017 Assignment [Style Transfer]()
+- 2017 Assignment [Style Transfer](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment3_2017/StyleTransfer-PyTorch.ipynb)
     
 ## Helpful Resources
 
