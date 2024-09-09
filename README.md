@@ -7,7 +7,7 @@ I have organized the notes by assignment, including related helpers that were in
 
 - [Assignment 1](https://github.com/abdullahejazjanjua/cs231n/tree/main/assignment1/assignment1_lecture_wise_notes)
 - [Assignment 2](https://github.com/abdullahejazjanjua/cs231n/tree/main/assignment2/assignment_wise_notes)
-- [Assignment 3](https://github.com/abdullahejazjanjua/cs231n/tree/main/assignment3/assignment_wise_notes)
+- [Assignment 3](https://github.com/abdullahejazjanjua/cs231n/tree/main/assignment3/assignment3_lecture_wise_notes)
 
 ## Assignment Solutions
 
@@ -33,12 +33,12 @@ You can get starter code from [here](https://cs231n.github.io/assignments2024/as
 You can get starter code from [here](https://cs231n.github.io/assignments2024/assignment3/)
 
 
-- [Q1: Image Captioning with Vanilla RNNs.]()
+- [Q1: Image Captioning with Vanilla RNNs.](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment3/RNN_Captioning.ipynb)
 - Q2: Image Captioning with Transformers.
-- [Q3: Generative Adversarial Networks.]()
+- [Q3: Generative Adversarial Networks.](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment3/Generative_Adversarial_Networks.ipynb)
 - Q4: Self-Supervised Learning for Image Classification.
-- [Q5: Network Visualization: Saliency Maps, Class Visualization, and Fooling Images.](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment3_2017/NetworkVisualization-PyTorch.ipynb)
-- [Q6: Image Captioning with LSTMs.]()
+- [Q5: Network Visualization: Saliency Maps, Class Visualization, and Fooling Images.](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment3/NetworkVisualization-PyTorch.ipynb)
+- [Q6: Image Captioning with LSTMs.](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment3/LSTM_Captioning.ipynb)
 - [Q7: Style Transfer](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment3_2017/StyleTransfer-PyTorch.ipynb)
     
 ## Helpful Resources
