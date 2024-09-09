@@ -29,6 +29,9 @@ You can get starter code from [here](https://cs231n.github.io/assignments2024/as
 
 ### Assignment 3
 
+You can get starter code from [here](https://cs231n.github.io/assignments2024/assignment3/)
+
+
 - [Q1: Image Captioning with Vanilla RNNs.]()
 - Q2: Image Captioning with Transformers.
 - [Q3: Generative Adversarial Networks.]()
