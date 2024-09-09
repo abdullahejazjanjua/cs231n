@@ -7,6 +7,7 @@ I have organized the notes by assignment, including related helpers that were in
 
 - [Assignment 1](https://github.com/abdullahejazjanjua/cs231n/tree/main/assignment1/assignment1_lecture_wise_notes)
 - [Assignment 2](https://github.com/abdullahejazjanjua/cs231n/tree/main/assignment2/assignment_wise_notes)
+- [Assignment 3](https://github.com/abdullahejazjanjua/cs231n/tree/main/assignment3/assignment_wise_notes)
 
 ## Assignment Solutions
 
