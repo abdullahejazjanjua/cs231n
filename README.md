@@ -38,8 +38,8 @@ You can get starter code from [here](https://cs231n.github.io/assignments2024/as
 - [Q3: Generative Adversarial Networks.]()
 - Q4: Self-Supervised Learning for Image Classification.
 - [Q5: Network Visualization: Saliency Maps, Class Visualization, and Fooling Images.](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment3_2017/NetworkVisualization-PyTorch.ipynb)
-- [Extra Credit: Image Captioning with LSTMs.]()
-- [2017 Assignment Style Transfer](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment3_2017/StyleTransfer-PyTorch.ipynb)
+- [Q6: Image Captioning with LSTMs.]()
+- [Q7: Style Transfer](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment3_2017/StyleTransfer-PyTorch.ipynb)
     
 ## Helpful Resources
 
