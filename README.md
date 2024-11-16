@@ -34,7 +34,7 @@ You can get starter code from [here](https://cs231n.github.io/assignments2024/as
 
 
 - [Q1: Image Captioning with Vanilla RNNs.](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment3/RNN_Captioning.ipynb)
-- Q2: Image Captioning with Transformers.
+- [Q2: Image Captioning with Transformers.](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment3/Transformer_Captioning.ipynb)
 - [Q3: Generative Adversarial Networks.](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment3/Generative_Adversarial_Networks.ipynb)
 - Q4: Self-Supervised Learning for Image Classification.
 - [Q5: Network Visualization: Saliency Maps, Class Visualization, and Fooling Images.](https://github.com/abdullahejazjanjua/cs231n/blob/main/assignment3/NetworkVisualization-PyTorch.ipynb)
@@ -49,5 +49,7 @@ You can get starter code from [here](https://cs231n.github.io/assignments2024/as
   - Assisted in understanding concepts that were not fully clear from the course lectures
 - [ResNet](https://www.youtube.com/watch?v=Q1JCrG1bJ-A)
   - Helped solidfy my understanding of Residual Blocks and how they help in training deeper networks
+- [Transformers](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
+  - Helped in understanding the transformer architecture.
 
 
