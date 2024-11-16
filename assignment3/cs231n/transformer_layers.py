@@ -1,4 +1,5 @@
 import torch
+from torch._prims_common import mask_tensor
 import torch.nn as nn
 from torch.nn import functional as F
 import math
@@ -38,7 +39,11 @@ class PositionalEncoding(nn.Module):
         ############################################################################
         # *****START OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
 
-        pass
+        position = torch.arange(max_len, dtype=torch.float).unsqueeze(1)
+        # My resource used below formula, don't know why here different is given
+        dinominator = torch.pow(10000, torch.arange(0, embed_dim, 2).float() / embed_dim ) 
+        pe[0, :, 0 :: 2] = torch.sin(position / dinominator)
+        pe[0, :, 1 :: 2] = torch.cos(position / dinominator)
 
         # *****END OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
         ############################################################################
@@ -70,7 +75,8 @@ class PositionalEncoding(nn.Module):
         ############################################################################
         # *****START OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
 
-        pass
+        output = x + self.pe[:, :S, :]
+        output = self.dropout(output)
 
         # *****END OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
         ############################################################################
@@ -165,8 +171,27 @@ class MultiHeadAttention(nn.Module):
         ############################################################################
         # *****START OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
 
-        pass
+        H = self.n_head
+        Q = self.query(query).reshape((N, S, H , E // H )).moveaxis(1, 2)
+        K = self.key(key).reshape((N, T, H , E // H )).moveaxis(1, 2)
+        V = self.value(value).reshape((N, T, H , E // H )).moveaxis(1, 2)
 
+        Y = torch.matmul(Q, K.transpose(2,3))
+
+        Y = Y / math.sqrt(E / H )
+
+        if attn_mask is not None:
+
+          Y = Y.masked_fill(attn_mask == 0, float('-inf'))
+
+        Y = F.softmax(Y, dim = -1)
+
+        Y = self.attn_drop(Y)
+
+        
+        Y = torch.matmul(Y, V)
+
+        output = self.proj(Y.moveaxis(1,2).reshape((N, S, E)))
         # *****END OF YOUR CODE (DO NOT DELETE/MODIFY THIS LINE)*****
         ############################################################################
         #                             END OF YOUR CODE                             #
